@@ -1,0 +1,21 @@
+SITE - 62.272.700 AMOS OLIVEIRA DE MORAES
+
+Arquivos:
+- index.html: página inicial
+- sobre.html: apresentação da empresa
+- privacidade.html: política de privacidade
+- termos.html: termos de uso
+- assets/: imagens enviadas e folha de estilos
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador.
+3. Para publicar, envie todos os arquivos mantendo a mesma estrutura de pastas para sua hospedagem.
+
+Dependências externas:
+- Bootstrap 5.3.3 e Bootstrap Icons via CDN
+- Google Fonts via CDN
+É necessária conexão à internet para carregar essas bibliotecas.
+
+IMPORTANTE:
+Os textos institucionais e legais são modelos iniciais, não uma certificação de conformidade com políticas do Google Ads ou aconselhamento jurídico. Antes de publicar, confira os dados cadastrais, disponibilidade/área real dos serviços, regras comerciais e processos de tratamento de dados. Se instalar Google Ads conversion tracking, Google Analytics, pixels ou cookies de publicidade, atualize a Política de Privacidade e implemente mecanismo de consentimento quando aplicável. Não declare vínculo com os Correios; o site deixa claro que a empresa é independente.
